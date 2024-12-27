@@ -1,0 +1,24 @@
+2024-12-11 18:05:06,649 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 18:05:06,650 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 18:05:09,949 - INFO - Home endpoint accessed.
+2024-12-11 18:05:09,950 - INFO - 127.0.0.1 - - [11/Dec/2024 18:05:09] "GET / HTTP/1.1" 200 -
+2024-12-11 18:08:15,528 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 18:08:15,529 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 18:08:18,545 - INFO - Home endpoint accessed.
+2024-12-11 18:08:18,549 - INFO - 127.0.0.1 - - [11/Dec/2024 18:08:18] "GET / HTTP/1.1" 200 -
+2024-12-11 18:12:05,892 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 18:12:05,893 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 18:12:08,618 - INFO - Rendering the home page with the input form.
+2024-12-11 18:12:08,647 - INFO - 127.0.0.1 - - [11/Dec/2024 18:12:08] "GET / HTTP/1.1" 200 -
+2024-12-11 18:12:40,752 - ERROR - Scraping failed. Error: 
+2024-12-11 18:12:40,752 - INFO - 127.0.0.1 - - [11/Dec/2024 18:12:40] "POST /scrape HTTP/1.1" 200 -
+2024-12-11 18:17:58,602 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-11 18:17:58,603 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-11 18:18:01,665 - INFO - Rendering the home page with the input form.
+2024-12-11 18:18:01,667 - INFO - 127.0.0.1 - - [11/Dec/2024 18:18:01] "GET / HTTP/1.1" 200 -
+2024-12-11 18:18:17,967 - ERROR - Scraping failed. Error: 
+2024-12-11 18:18:17,968 - INFO - 127.0.0.1 - - [11/Dec/2024 18:18:17] "POST /scrape HTTP/1.1" 200 -
